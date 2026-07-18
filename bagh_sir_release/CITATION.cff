@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or the audit results, please cite it as below."
+title: "BAGH_SIR: volume, density and macroporosity of small bodies from 3D shape models, with a physical-plausibility audit of the SiMDA catalogue"
+authors:
+  - family-names: "Bagh"
+    given-names: "Promod"
+    affiliation: "Independent researcher, Raghunathpur, India"
+version: "1.0.0"
+date-released: "2026-07-19"
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/bagh_sir"
+keywords:
+  - asteroids
+  - bulk density
+  - shape models
+  - macroporosity
+  - SiMDA
+  - computational geometry

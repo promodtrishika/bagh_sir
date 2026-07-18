@@ -1,0 +1,43 @@
+tier,num,name,taxon,density,grain,porosity_pct,rank,diam_km,mass_err_pct,note
+1 - impossible (denser than its own rock),206,Hersilia,C,6.08,2.7,-125,C,95.4,38,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),410,Chloris,Ch,4.96,2.7,-84,C,120.8,48,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),102,Miriam,P,4.46,2.6,-72,C,88.0,37,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),34,Circe,Ch,4.63,2.7,-71,C,113.5,24,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),181,Eucharis,S,5.46,3.7,-48,C,101.1,44,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),679,Pax,L,4.95,3.5,-41,C,65.1,28,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),124,Alkeste,S,4.74,3.7,-28,C,76.7,46,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),233,Asterope,T,3.27,2.6,-26,C,107.5,44,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),156,Xanthippe,Ch,3.35,2.7,-24,C,118.0,19,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),140,Siwa,P,2.95,2.6,-13,C,116.2,36,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),159,Aemilia,C,3.03,2.7,-12,C,126.9,36,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),192,Nausikaa,S,4.10,3.7,-11,B,90.2,16,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),804,Hispania,C,2.93,2.7,-9,C,147.8,34,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),36,Atalante,C,2.92,2.7,-8,C,108.9,44,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),81,Terpsichore,Cb,2.92,2.7,-8,C,121.4,29,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),675,Ludmilla,S,3.99,3.7,-8,C,67.7,49,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),354,Eleonora,A,3.93,3.7,-6,C,159.3,46,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),57,Mnemosyne,S,3.85,3.7,-4,C,114.9,45,mass or size almost certainly wrong
+1 - impossible (denser than its own rock),114,Kassandra,T,2.62,2.6,-1,C,88.1,31,mass or size almost certainly wrong
+"2 - metal (could be iron, or size/mass error)",110,Lydia,M,4.88,4.9,0,C,78.5,20,check composition + independent size
+"2 - metal (could be iron, or size/mass error)",97,Klotho,Xc,4.80,4.9,2,C,81.6,19,check composition + independent size
+"2 - metal (could be iron, or size/mass error)",275,Sapientia,X,4.69,4.9,4,C,95.5,24,check composition + independent size
+"2 - metal (could be iron, or size/mass error)",92,Undina,Xk,4.64,4.9,5,C,124.7,37,check composition + independent size
+"2 - metal (could be iron, or size/mass error)",56,Melete,Xk,4.57,4.9,7,C,124.2,21,check composition + independent size
+"2 - metal (could be iron, or size/mass error)",135,Hertha,Xk,4.45,4.9,9,B,78.1,12,check composition + independent size
+"2 - metal (could be iron, or size/mass error)",129,Antigone,X,4.35,4.9,11,C,122.0,48,check composition + independent size
+"2 - metal (could be iron, or size/mass error)",680,Genoveva,X,4.37,4.9,11,C,84.7,47,check composition + independent size
+"2 - metal (could be iron, or size/mass error)",69,Hesperia,Xk,4.33,4.9,12,C,136.8,23,check composition + independent size
+3 - suspiciously solid,15,Eunomia,K,3.49,3.5,0,B,259.0,3,worth an independent check
+3 - suspiciously solid,40,Harmonia,S,3.69,3.7,0,C,120.0,24,worth an independent check
+3 - suspiciously solid,200,Dynamene,Ch,2.66,2.7,1,C,130.4,35,worth an independent check
+3 - suspiciously solid,386,Siegena,Ch,2.66,2.7,1,C,169.0,42,worth an independent check
+3 - suspiciously solid,5,Astraea,S,3.62,3.7,2,B,115.6,15,worth an independent check
+3 - suspiciously solid,6,Hebe,S,3.60,3.7,3,C,189.5,20,worth an independent check
+3 - suspiciously solid,238,Hypatia,Ch,2.56,2.7,5,C,146.4,27,worth an independent check
+3 - suspiciously solid,415,Palatia,DP,2.48,2.6,5,C,80.1,47,worth an independent check
+3 - suspiciously solid,137,Meliboea,C,2.52,2.7,7,C,145.0,49,worth an independent check
+3 - suspiciously solid,694,Ekard,CP:,2.46,2.7,9,C,92.9,37,worth an independent check
+3 - suspiciously solid,23,Thalia,S,3.32,3.7,10,C,106.4,21,worth an independent check
+3 - suspiciously solid,30,Urania,S,3.33,3.7,10,B,100.0,15,worth an independent check
+3 - suspiciously solid,328,Gudrun,S,3.32,3.7,10,C,122.8,48,worth an independent check
+3 - suspiciously solid,28,Bellona,S,3.27,3.7,12,C,115.0,21,worth an independent check
