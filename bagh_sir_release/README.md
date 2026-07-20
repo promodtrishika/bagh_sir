@@ -1,3 +1,5 @@
+**Live demo:** 
+https://bagh-sir-tools.streamlit.app
 # BAGH_SIR — Bagh's Shape-Integrated Reckoner
 
 **Volume, bulk density and macroporosity of asteroids and comets from 3D shape models, plus a physical-plausibility audit of the SiMDA catalogue.**
