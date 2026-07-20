@@ -205,11 +205,12 @@ if st.button("Analyze", type="primary", use_container_width=True):
     st.table(df)
 
 st.divider()
-st.caption(
-    "BAGH_SIR uses standard computational geometry — two independent volume methods "
+st.markdown(
+    "<small>BAGH_SIR uses standard computational geometry — two independent volume methods "
     "(signed-tetrahedron sum + projection) that agree to machine precision. "
     "A validated, transparent tool, not new physics. · Built by Promod Bagh, "
     "Independent researcher, Raghunathpur, India. · "
-    "Code & data: [github.com/promodtrishika/bagh_sir](https://github.com/promodtrishika/bagh_sir) · "
-    "Archived: [doi.org/10.5281/zenodo.21433683](https://doi.org/10.5281/zenodo.21433683)"
+    "Code & data: <a href='https://github.com/promodtrishika/bagh_sir'>github.com/promodtrishika/bagh_sir</a> · "
+    "Archived: <a href='https://doi.org/10.5281/zenodo.21433683'>doi.org/10.5281/zenodo.21433683</a></small>",
+    unsafe_allow_html=True,
 )
